@@ -11,6 +11,26 @@ PrefabInstance:
       propertyPath: m_Name
       value: Crabs Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 4649169176741508, guid: f0612f9ade4945544b78e7b155ade161, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4649169176741508, guid: f0612f9ade4945544b78e7b155ade161, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4649169176741508, guid: f0612f9ade4945544b78e7b155ade161, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4649169176741508, guid: f0612f9ade4945544b78e7b155ade161, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4649169176741508, guid: f0612f9ade4945544b78e7b155ade161, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4974263707317260, guid: f0612f9ade4945544b78e7b155ade161, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -55,6 +75,31 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 111839492020820454, guid: f0612f9ade4945544b78e7b155ade161,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 111839492020820454, guid: f0612f9ade4945544b78e7b155ade161,
+        type: 3}
+      propertyPath: m_Animation
+      value: 
+      objectReference: {fileID: 7400000, guid: db376bfc8a11cbc40a232076f96b7ed4, type: 3}
+    - target: {fileID: 111839492020820454, guid: f0612f9ade4945544b78e7b155ade161,
+        type: 3}
+      propertyPath: m_CullingType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 111839492020820454, guid: f0612f9ade4945544b78e7b155ade161,
+        type: 3}
+      propertyPath: m_Animations.Array.size
+      value: 19
+      objectReference: {fileID: 0}
+    - target: {fileID: 111839492020820454, guid: f0612f9ade4945544b78e7b155ade161,
+        type: 3}
+      propertyPath: m_Animations.Array.data[19]
+      value: 
+      objectReference: {fileID: 7400000, guid: db376bfc8a11cbc40a232076f96b7ed4, type: 3}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f0612f9ade4945544b78e7b155ade161, type: 3}
 --- !u!1 &4910104567126631615 stripped

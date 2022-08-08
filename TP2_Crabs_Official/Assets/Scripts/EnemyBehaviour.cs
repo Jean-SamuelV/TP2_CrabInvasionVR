@@ -27,5 +27,15 @@ public class EnemyBehaviour : MonoBehaviour
         _agent.destination = Castle.position;
 
         Debug.Log("Player Detected - Attack!");
+
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.name == "Chateau")
+        {
+
+        }
+
     }
 }
