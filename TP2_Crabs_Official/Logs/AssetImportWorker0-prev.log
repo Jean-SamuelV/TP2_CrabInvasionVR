@@ -15,7 +15,11 @@ C:/Users/jolar/OneDrive/Bureau/VRCrabInvasion/TP2_CrabInvasionVR/TP2_Crabs_Offic
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
+<<<<<<< HEAD
 54153
+=======
+55781
+>>>>>>> branche_js
 Successfully changed project path to: C:/Users/jolar/OneDrive/Bureau/VRCrabInvasion/TP2_CrabInvasionVR/TP2_Crabs_Official
 C:/Users/jolar/OneDrive/Bureau/VRCrabInvasion/TP2_CrabInvasionVR/TP2_Crabs_Official
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,8 +51,13 @@ C:/Users/jolar/OneDrive/Bureau/VRCrabInvasion/TP2_CrabInvasionVR/TP2_Crabs_Offic
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 101.61 ms, found 11 plugins.
 Preloading 1 native plugins for Editor in 0.86 ms.
+=======
+Refreshing native plugins compatible for Editor in 87.70 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.89 ms.
+>>>>>>> branche_js
 Initialize engine version: 2021.3.6f1 (7da38d85baf6)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path C:/Users/jolar/OneDrive/Bureau/VRCrabInvasion/TP2_CrabInvasionVR/TP2_Crabs_Official/Assets
@@ -63,12 +72,17 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+<<<<<<< HEAD
 Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56300
+=======
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56212
+>>>>>>> branche_js
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+<<<<<<< HEAD
 Registered in 0.004274 seconds.
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
@@ -80,11 +94,25 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (550ms)
 		BeginReloadAssembly (55ms)
+=======
+Registered in 0.003263 seconds.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 78.27 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.15 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.506 seconds
+Domain Reload Profiling:
+	ReloadAssembly (506ms)
+		BeginReloadAssembly (49ms)
+>>>>>>> branche_js
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
+<<<<<<< HEAD
 		EndReloadAssembly (407ms)
 			LoadAssemblies (55ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
@@ -99,21 +127,46 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (1ms)
 				ProcessInitializeOnLoadAttributes (77ms)
 				ProcessInitializeOnLoadMethodAttributes (38ms)
+=======
+		EndReloadAssembly (377ms)
+			LoadAssemblies (49ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (86ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (23ms)
+			SetupLoadedEditorAssemblies (228ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (42ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (78ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (73ms)
+				ProcessInitializeOnLoadMethodAttributes (33ms)
+>>>>>>> branche_js
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 Registered in 0.005691 seconds.
+=======
+Registered in 0.005809 seconds.
+>>>>>>> branche_js
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 89.19 ms, found 11 plugins.
 Preloading 1 native plugins for Editor in 0.06 ms.
+=======
+Refreshing native plugins compatible for Editor in 79.84 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.12 ms.
+>>>>>>> branche_js
 Package Manager log level set to [2]
 System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
   at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:271 
@@ -131,6 +184,7 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Completed reload, in  1.260 seconds
 Domain Reload Profiling:
 	ReloadAssembly (1261ms)
@@ -168,6 +222,45 @@ Unloading 4558 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 70 unused Assets / (1.6 MB). Loaded Objects now: 5006.
 Memory consumption went from 169.5 MB to 168.0 MB.
 Total: 4.092600 ms (FindLiveObjects: 0.748800 ms CreateObjectMapping: 0.255900 ms MarkObjects: 2.787600 ms  DeleteObjects: 0.298600 ms)
+=======
+- Completed reload, in  1.293 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1294ms)
+		BeginReloadAssembly (205ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (134ms)
+		EndReloadAssembly (983ms)
+			LoadAssemblies (74ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (278ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (538ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (80ms)
+				BeforeProcessingInitializeOnLoad (88ms)
+				ProcessInitializeOnLoadAttributes (326ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 1.56 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+Unloading 4557 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 70 unused Assets / (1.6 MB). Loaded Objects now: 5005.
+Memory consumption went from 169.5 MB to 167.9 MB.
+Total: 3.384100 ms (FindLiveObjects: 0.380200 ms CreateObjectMapping: 0.180800 ms MarkObjects: 2.523600 ms  DeleteObjects: 0.298300 ms)
+>>>>>>> branche_js
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -182,6 +275,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
   Time since last request: 14768.257305 seconds.
   path: Assets/Prefab/Crabs Variant.prefab
   artifactKey: Guid(531d851723bb92d41b3510ddc7dd8405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -190,14 +284,35 @@ Start importing Assets/Prefab/Crabs Variant.prefab using Guid(531d851723bb92d41b
 Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.006358 seconds.
+=======
+  Time since last request: 9656.371463 seconds.
+  path: Assets/Scripts/EnemyBehaviour.cs
+  artifactKey: Guid(0e40eb529390fe242b493a75ec94ae2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnemyBehaviour.cs using Guid(0e40eb529390fe242b493a75ec94ae2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cae0fcb85fe64b8d03fa9203cb46aca5') in 0.023029 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 37.334550 seconds.
+  path: Assets/Scripts/EnemyBehaviour.cs
+  artifactKey: Guid(0e40eb529390fe242b493a75ec94ae2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnemyBehaviour.cs using Guid(0e40eb529390fe242b493a75ec94ae2d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5f87ea291edd7966444a8b41dd6d6d6') in 0.002439 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006792 seconds.
+>>>>>>> branche_js
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 1.02 ms, found 11 plugins.
 Preloading 1 native plugins for Editor in 0.11 ms.
+=======
+Refreshing native plugins compatible for Editor in 0.85 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+>>>>>>> branche_js
 System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
   at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:271 
   at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:256 
@@ -214,14 +329,22 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Completed reload, in  1.004 seconds
 Domain Reload Profiling:
 	ReloadAssembly (1004ms)
 		BeginReloadAssembly (125ms)
+=======
+- Completed reload, in  0.931 seconds
+Domain Reload Profiling:
+	ReloadAssembly (932ms)
+		BeginReloadAssembly (109ms)
+>>>>>>> branche_js
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD
 			CreateAndSetChildDomain (50ms)
 		EndReloadAssembly (797ms)
 			LoadAssemblies (68ms)
@@ -544,6 +667,34 @@ Unloading 4495 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5033.
 Memory consumption went from 182.0 MB to 180.5 MB.
 Total: 5.108400 ms (FindLiveObjects: 0.649800 ms CreateObjectMapping: 0.298500 ms MarkObjects: 3.685100 ms  DeleteObjects: 0.473100 ms)
+=======
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (748ms)
+			LoadAssemblies (70ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (236ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (362ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (58ms)
+				ProcessInitializeOnLoadAttributes (252ms)
+				ProcessInitializeOnLoadMethodAttributes (30ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.24 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+Unloading 4494 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5009.
+Memory consumption went from 165.0 MB to 163.4 MB.
+Total: 3.030900 ms (FindLiveObjects: 0.314500 ms CreateObjectMapping: 0.199100 ms MarkObjects: 2.173700 ms  DeleteObjects: 0.342500 ms)
+>>>>>>> branche_js
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -558,6 +709,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
   Time since last request: 191.314871 seconds.
   path: Assets/Meshes/SKM_Crabs/show.unity
   artifactKey: Guid(9ebec9fbd1b3ee84ab2a3227920aaa78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -664,13 +816,27 @@ Start importing Assets/Scripts/EnemySpawn.cs using Guid(52bc0ff1ff8dc9e439843740
 Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.005170 seconds.
+=======
+  Time since last request: 17.767734 seconds.
+  path: Assets/Scripts/EnemiySpawn.cs
+  artifactKey: Guid(52bc0ff1ff8dc9e4398437404ed995bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnemiySpawn.cs using Guid(52bc0ff1ff8dc9e4398437404ed995bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18b1906451d714b590e12f73d7805e62') in 0.012166 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007135 seconds.
+>>>>>>> branche_js
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 1.00 ms, found 11 plugins.
+=======
+Refreshing native plugins compatible for Editor in 0.97 ms, found 11 plugins.
+>>>>>>> branche_js
 Preloading 1 native plugins for Editor in 0.15 ms.
 System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
   at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:271 
@@ -688,6 +854,7 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Completed reload, in  0.986 seconds
 Domain Reload Profiling:
 	ReloadAssembly (986ms)
@@ -773,10 +940,24 @@ Domain Reload Profiling:
 			CreateAndSetChildDomain (45ms)
 		EndReloadAssembly (798ms)
 			LoadAssemblies (68ms)
+=======
+- Completed reload, in  0.963 seconds
+Domain Reload Profiling:
+	ReloadAssembly (963ms)
+		BeginReloadAssembly (116ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (773ms)
+			LoadAssemblies (70ms)
+>>>>>>> branche_js
 			RebuildTransferFunctionScriptingTraits (0ms)
 			SetupTypeCache (229ms)
 			ReleaseScriptCaches (2ms)
 			RebuildScriptCaches (42ms)
+<<<<<<< HEAD
 			SetupLoadedEditorAssemblies (404ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (19ms)
@@ -1019,17 +1200,36 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (63ms)
 				ProcessInitializeOnLoadAttributes (285ms)
 				ProcessInitializeOnLoadMethodAttributes (36ms)
+=======
+			SetupLoadedEditorAssemblies (392ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (60ms)
+				ProcessInitializeOnLoadAttributes (272ms)
+				ProcessInitializeOnLoadMethodAttributes (38ms)
+>>>>>>> branche_js
 				AfterProcessingInitializeOnLoad (4ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (4ms)
 Platform modules already initialized, skipping
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 5.39 ms, found 11 plugins.
 Preloading 1 native plugins for Editor in 0.09 ms.
 Unloading 4495 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5057.
 Memory consumption went from 182.1 MB to 180.6 MB.
 Total: 5.901100 ms (FindLiveObjects: 0.374200 ms CreateObjectMapping: 0.431800 ms MarkObjects: 4.100800 ms  DeleteObjects: 0.990900 ms)
+=======
+Refreshing native plugins compatible for Editor in 3.17 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+Unloading 4494 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5013.
+Memory consumption went from 165.0 MB to 163.4 MB.
+Total: 3.097800 ms (FindLiveObjects: 0.283500 ms CreateObjectMapping: 0.116900 ms MarkObjects: 2.409400 ms  DeleteObjects: 0.287200 ms)
+>>>>>>> branche_js
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -1044,6 +1244,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
   Time since last request: 37.677322 seconds.
   path: Assets/Prefab/Crabs Variant.prefab
   artifactKey: Guid(531d851723bb92d41b3510ddc7dd8405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -1052,6 +1253,256 @@ Start importing Assets/Prefab/Crabs Variant.prefab using Guid(531d851723bb92d41b
 Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.005489 seconds.
+=======
+  Time since last request: 25.157942 seconds.
+  path: Assets/Scripts/EnemySpawn.cs
+  artifactKey: Guid(52bc0ff1ff8dc9e4398437404ed995bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnemySpawn.cs using Guid(52bc0ff1ff8dc9e4398437404ed995bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6016184deaeb47f1b78de5817a465461') in 0.012518 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006175 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:271 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:256 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <e40e5a8f982c4b618a930d29f9bd091c>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <e40e5a8f982c4b618a930d29f9bd091c>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <e40e5a8f982c4b618a930d29f9bd091c>:0 
+  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x000a5] in <44a70d1b13cf47e29810e30f45ffae08>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.960 seconds
+Domain Reload Profiling:
+	ReloadAssembly (960ms)
+		BeginReloadAssembly (106ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (777ms)
+			LoadAssemblies (61ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (233ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (395ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (65ms)
+				ProcessInitializeOnLoadAttributes (272ms)
+				ProcessInitializeOnLoadMethodAttributes (35ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.26 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 4494 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5017.
+Memory consumption went from 165.0 MB to 163.5 MB.
+Total: 3.068700 ms (FindLiveObjects: 0.341900 ms CreateObjectMapping: 0.133300 ms MarkObjects: 2.297100 ms  DeleteObjects: 0.295300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 30.884946 seconds.
+  path: Assets/Scripts/EnemySpawn.cs
+  artifactKey: Guid(52bc0ff1ff8dc9e4398437404ed995bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnemySpawn.cs using Guid(52bc0ff1ff8dc9e4398437404ed995bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66f9a20ad13433c85d4aaf3afffede1b') in 0.008644 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005723 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 0.85 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:271 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:256 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <e40e5a8f982c4b618a930d29f9bd091c>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <e40e5a8f982c4b618a930d29f9bd091c>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <e40e5a8f982c4b618a930d29f9bd091c>:0 
+  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x000a5] in <44a70d1b13cf47e29810e30f45ffae08>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.981 seconds
+Domain Reload Profiling:
+	ReloadAssembly (981ms)
+		BeginReloadAssembly (112ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (795ms)
+			LoadAssemblies (65ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (234ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (407ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (61ms)
+				ProcessInitializeOnLoadAttributes (287ms)
+				ProcessInitializeOnLoadMethodAttributes (37ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.20 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+Unloading 4494 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5021.
+Memory consumption went from 165.0 MB to 163.5 MB.
+Total: 3.427400 ms (FindLiveObjects: 0.418800 ms CreateObjectMapping: 0.286700 ms MarkObjects: 2.319300 ms  DeleteObjects: 0.401500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 14.405340 seconds.
+  path: Assets/Scripts/GameBehaviour.cs
+  artifactKey: Guid(295c367232ff59e4fbf501172666095a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameBehaviour.cs using Guid(295c367232ff59e4fbf501172666095a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65da3b18c2fff3ead95167f2a9bce532') in 0.011765 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005106 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 0.89 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.11 ms.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:271 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:256 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <e40e5a8f982c4b618a930d29f9bd091c>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <e40e5a8f982c4b618a930d29f9bd091c>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <e40e5a8f982c4b618a930d29f9bd091c>:0 
+  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x000a5] in <44a70d1b13cf47e29810e30f45ffae08>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.950 seconds
+Domain Reload Profiling:
+	ReloadAssembly (950ms)
+		BeginReloadAssembly (107ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (757ms)
+			LoadAssemblies (63ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (230ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (382ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (58ms)
+				ProcessInitializeOnLoadAttributes (265ms)
+				ProcessInitializeOnLoadMethodAttributes (36ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.36 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+Unloading 4495 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5026.
+Memory consumption went from 165.0 MB to 163.5 MB.
+Total: 4.244200 ms (FindLiveObjects: 0.462700 ms CreateObjectMapping: 0.298500 ms MarkObjects: 3.183700 ms  DeleteObjects: 0.298500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 28.553663 seconds.
+  path: Assets/Scripts/GameManager.cs
+  artifactKey: Guid(295c367232ff59e4fbf501172666095a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameManager.cs using Guid(295c367232ff59e4fbf501172666095a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a96f17132de731341925b1e6d185bac') in 0.011619 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005204 seconds.
+>>>>>>> branche_js
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
@@ -1076,14 +1527,22 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Completed reload, in  1.041 seconds
 Domain Reload Profiling:
 	ReloadAssembly (1042ms)
 		BeginReloadAssembly (122ms)
+=======
+- Completed reload, in  0.937 seconds
+Domain Reload Profiling:
+	ReloadAssembly (938ms)
+		BeginReloadAssembly (106ms)
+>>>>>>> branche_js
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD
 			CreateAndSetChildDomain (47ms)
 		EndReloadAssembly (838ms)
 			LoadAssemblies (69ms)
@@ -1100,16 +1559,43 @@ Domain Reload Profiling:
 				ProcessInitializeOnLoadAttributes (306ms)
 				ProcessInitializeOnLoadMethodAttributes (41ms)
 				AfterProcessingInitializeOnLoad (6ms)
+=======
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (757ms)
+			LoadAssemblies (65ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (222ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (375ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (58ms)
+				ProcessInitializeOnLoadAttributes (264ms)
+				ProcessInitializeOnLoadMethodAttributes (31ms)
+				AfterProcessingInitializeOnLoad (4ms)
+>>>>>>> branche_js
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (5ms)
 Platform modules already initialized, skipping
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 4.51 ms, found 11 plugins.
 Preloading 1 native plugins for Editor in 0.10 ms.
 Unloading 4495 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5061.
 Memory consumption went from 182.2 MB to 180.6 MB.
 Total: 3.356000 ms (FindLiveObjects: 0.296200 ms CreateObjectMapping: 0.136800 ms MarkObjects: 2.433600 ms  DeleteObjects: 0.487100 ms)
+=======
+Refreshing native plugins compatible for Editor in 3.64 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 4495 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5030.
+Memory consumption went from 165.1 MB to 163.5 MB.
+Total: 3.188500 ms (FindLiveObjects: 0.312100 ms CreateObjectMapping: 0.134400 ms MarkObjects: 2.276100 ms  DeleteObjects: 0.464600 ms)
+>>>>>>> branche_js
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -1123,17 +1609,34 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+<<<<<<< HEAD
 Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.005197 seconds.
+=======
+Received Import Request.
+  Time since last request: 25.396869 seconds.
+  path: Assets/Scripts/GameManager.cs
+  artifactKey: Guid(295c367232ff59e4fbf501172666095a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/GameManager.cs using Guid(295c367232ff59e4fbf501172666095a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5efc58a0a6ba06a55aee7bccbed9a71e') in 0.007690 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005230 seconds.
+>>>>>>> branche_js
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 1.31 ms, found 11 plugins.
 Preloading 1 native plugins for Editor in 0.09 ms.
+=======
+Refreshing native plugins compatible for Editor in 0.98 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+>>>>>>> branche_js
 System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
   at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:271 
   at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:256 
@@ -1150,15 +1653,23 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Completed reload, in  1.069 seconds
 Domain Reload Profiling:
 	ReloadAssembly (1070ms)
 		BeginReloadAssembly (117ms)
+=======
+- Completed reload, in  0.984 seconds
+Domain Reload Profiling:
+	ReloadAssembly (984ms)
+		BeginReloadAssembly (121ms)
+>>>>>>> branche_js
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (41ms)
+<<<<<<< HEAD
 		EndReloadAssembly (873ms)
 			LoadAssemblies (74ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
@@ -1240,10 +1751,20 @@ Domain Reload Profiling:
 			ReleaseScriptCaches (2ms)
 			RebuildScriptCaches (44ms)
 			SetupLoadedEditorAssemblies (415ms)
+=======
+		EndReloadAssembly (785ms)
+			LoadAssemblies (71ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (233ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (405ms)
+>>>>>>> branche_js
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (16ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
+<<<<<<< HEAD
 				BeforeProcessingInitializeOnLoad (60ms)
 				ProcessInitializeOnLoadAttributes (293ms)
 				ProcessInitializeOnLoadMethodAttributes (39ms)
@@ -1332,6 +1853,22 @@ Unloading 4495 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5073.
 Memory consumption went from 182.2 MB to 180.7 MB.
 Total: 4.119700 ms (FindLiveObjects: 0.673400 ms CreateObjectMapping: 0.230500 ms MarkObjects: 2.703000 ms  DeleteObjects: 0.510800 ms)
+=======
+				BeforeProcessingInitializeOnLoad (62ms)
+				ProcessInitializeOnLoadAttributes (283ms)
+				ProcessInitializeOnLoadMethodAttributes (38ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.35 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+Unloading 4495 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5034.
+Memory consumption went from 165.1 MB to 163.5 MB.
+Total: 3.311600 ms (FindLiveObjects: 0.276400 ms CreateObjectMapping: 0.115700 ms MarkObjects: 2.610400 ms  DeleteObjects: 0.308100 ms)
+>>>>>>> branche_js
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -1345,6 +1882,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+<<<<<<< HEAD
 Received Import Request.
   Time since last request: 202.921988 seconds.
   path: Assets/Prefab/Crabs Variant.prefab
@@ -1434,6 +1972,11 @@ Start importing Assets/Prefab/Crabs Variant.prefab using Guid(531d851723bb92d41b
 Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.005185 seconds.
+=======
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007258 seconds.
+>>>>>>> branche_js
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
@@ -1458,6 +2001,7 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Completed reload, in  0.950 seconds
 Domain Reload Profiling:
 	ReloadAssembly (951ms)
@@ -1536,10 +2080,17 @@ Mono: successfully reloaded assembly
 Domain Reload Profiling:
 	ReloadAssembly (911ms)
 		BeginReloadAssembly (111ms)
+=======
+- Completed reload, in  1.000 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1001ms)
+		BeginReloadAssembly (107ms)
+>>>>>>> branche_js
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD
 			CreateAndSetChildDomain (37ms)
 		EndReloadAssembly (723ms)
 			LoadAssemblies (66ms)
@@ -1555,17 +2106,43 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (61ms)
 				ProcessInitializeOnLoadAttributes (249ms)
 				ProcessInitializeOnLoadMethodAttributes (32ms)
+=======
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (813ms)
+			LoadAssemblies (67ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (242ms)
+			ReleaseScriptCaches (3ms)
+			RebuildScriptCaches (63ms)
+			SetupLoadedEditorAssemblies (383ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (20ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (261ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
+>>>>>>> branche_js
 				AfterProcessingInitializeOnLoad (4ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (4ms)
 Platform modules already initialized, skipping
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 3.11 ms, found 11 plugins.
 Preloading 1 native plugins for Editor in 0.05 ms.
 Unloading 4495 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5085.
 Memory consumption went from 182.3 MB to 180.7 MB.
 Total: 2.974900 ms (FindLiveObjects: 0.278000 ms CreateObjectMapping: 0.112600 ms MarkObjects: 2.275900 ms  DeleteObjects: 0.307400 ms)
+=======
+Refreshing native plugins compatible for Editor in 3.20 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.05 ms.
+Unloading 4495 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5038.
+Memory consumption went from 165.1 MB to 163.6 MB.
+Total: 2.942200 ms (FindLiveObjects: 0.287600 ms CreateObjectMapping: 0.139100 ms MarkObjects: 2.216100 ms  DeleteObjects: 0.298500 ms)
+>>>>>>> branche_js
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -1580,6 +2157,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
   Time since last request: 115.985834 seconds.
   path: Assets/Meshes/SKM_Crabs/animation/bdl_byx.FBX
   artifactKey: Guid(1fc4354ae7018ba48a43e5ff10c72ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -1606,14 +2184,29 @@ Start importing Assets/Meshes/SKM_Crabs/Materials/bdl_byx01.mat using Guid(cf961
 Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.005184 seconds.
+=======
+  Time since last request: 47.268008 seconds.
+  path: Assets/Prefab/Crabs Variant.prefab
+  artifactKey: Guid(531d851723bb92d41b3510ddc7dd8405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Crabs Variant.prefab using Guid(531d851723bb92d41b3510ddc7dd8405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd60638bbea0c6abb57ddc97cf276a2e') in 0.113767 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005789 seconds.
+>>>>>>> branche_js
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 1.44 ms, found 11 plugins.
 Preloading 1 native plugins for Editor in 0.12 ms.
+=======
+Refreshing native plugins compatible for Editor in 0.86 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+>>>>>>> branche_js
 System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
   at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:271 
   at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:256 
@@ -1630,15 +2223,23 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Completed reload, in  0.958 seconds
 Domain Reload Profiling:
 	ReloadAssembly (959ms)
 		BeginReloadAssembly (117ms)
+=======
+- Completed reload, in  0.926 seconds
+Domain Reload Profiling:
+	ReloadAssembly (927ms)
+		BeginReloadAssembly (105ms)
+>>>>>>> branche_js
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (34ms)
+<<<<<<< HEAD
 		EndReloadAssembly (763ms)
 			LoadAssemblies (68ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
@@ -1653,11 +2254,108 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (61ms)
 				ProcessInitializeOnLoadAttributes (251ms)
 				ProcessInitializeOnLoadMethodAttributes (40ms)
+=======
+		EndReloadAssembly (737ms)
+			LoadAssemblies (64ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (226ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (366ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (60ms)
+				ProcessInitializeOnLoadAttributes (250ms)
+				ProcessInitializeOnLoadMethodAttributes (35ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.30 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 4495 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5049.
+Memory consumption went from 182.1 MB to 180.5 MB.
+Total: 3.294500 ms (FindLiveObjects: 0.312000 ms CreateObjectMapping: 0.184300 ms MarkObjects: 2.500600 ms  DeleteObjects: 0.296800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 60.674907 seconds.
+  path: Assets/Scripts/EnemySpawn.cs
+  artifactKey: Guid(52bc0ff1ff8dc9e4398437404ed995bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnemySpawn.cs using Guid(52bc0ff1ff8dc9e4398437404ed995bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '112444b615156372c4056f9587cc4c32') in 0.007824 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005651 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 1.31 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.10 ms.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:271 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:256 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <e40e5a8f982c4b618a930d29f9bd091c>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <e40e5a8f982c4b618a930d29f9bd091c>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <e40e5a8f982c4b618a930d29f9bd091c>:0 
+  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x000a5] in <44a70d1b13cf47e29810e30f45ffae08>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.940 seconds
+Domain Reload Profiling:
+	ReloadAssembly (941ms)
+		BeginReloadAssembly (105ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (753ms)
+			LoadAssemblies (61ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (214ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (387ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (19ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (61ms)
+				ProcessInitializeOnLoadAttributes (266ms)
+				ProcessInitializeOnLoadMethodAttributes (35ms)
+>>>>>>> branche_js
 				AfterProcessingInitializeOnLoad (4ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 4.30 ms, found 11 plugins.
 Preloading 1 native plugins for Editor in 0.06 ms.
 Unloading 4495 Unused Serialized files (Serialized files now loaded: 0)
@@ -1744,6 +2442,14 @@ Unloading 4495 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5130.
 Memory consumption went from 182.7 MB to 181.2 MB.
 Total: 3.628000 ms (FindLiveObjects: 0.391400 ms CreateObjectMapping: 0.193000 ms MarkObjects: 2.680000 ms  DeleteObjects: 0.362300 ms)
+=======
+Refreshing native plugins compatible for Editor in 3.18 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Unloading 4495 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5053.
+Memory consumption went from 182.1 MB to 180.6 MB.
+Total: 3.407600 ms (FindLiveObjects: 0.459000 ms CreateObjectMapping: 0.188000 ms MarkObjects: 2.444300 ms  DeleteObjects: 0.315300 ms)
+>>>>>>> branche_js
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -1759,14 +2465,22 @@ AssetImportParameters requested are different than current active one (requested
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
+<<<<<<< HEAD
 Registered in 0.005493 seconds.
+=======
+Registered in 0.005420 seconds.
+>>>>>>> branche_js
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 0.84 ms, found 11 plugins.
+=======
+Refreshing native plugins compatible for Editor in 0.96 ms, found 11 plugins.
+>>>>>>> branche_js
 Preloading 1 native plugins for Editor in 0.07 ms.
 System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
   at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:271 
@@ -1784,14 +2498,22 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Completed reload, in  0.947 seconds
 Domain Reload Profiling:
 	ReloadAssembly (948ms)
 		BeginReloadAssembly (112ms)
+=======
+- Completed reload, in  0.932 seconds
+Domain Reload Profiling:
+	ReloadAssembly (932ms)
+		BeginReloadAssembly (103ms)
+>>>>>>> branche_js
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
+<<<<<<< HEAD
 			CreateAndSetChildDomain (39ms)
 		EndReloadAssembly (759ms)
 			LoadAssemblies (60ms)
@@ -1800,10 +2522,21 @@ Domain Reload Profiling:
 			ReleaseScriptCaches (2ms)
 			RebuildScriptCaches (44ms)
 			SetupLoadedEditorAssemblies (380ms)
+=======
+			CreateAndSetChildDomain (31ms)
+		EndReloadAssembly (756ms)
+			LoadAssemblies (64ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (216ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (388ms)
+>>>>>>> branche_js
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (16ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (1ms)
+<<<<<<< HEAD
 				BeforeProcessingInitializeOnLoad (62ms)
 				ProcessInitializeOnLoadAttributes (262ms)
 				ProcessInitializeOnLoadMethodAttributes (35ms)
@@ -1818,6 +2551,22 @@ Unloading 4495 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5134.
 Memory consumption went from 182.7 MB to 181.2 MB.
 Total: 4.013200 ms (FindLiveObjects: 0.407800 ms CreateObjectMapping: 0.159800 ms MarkObjects: 3.053000 ms  DeleteObjects: 0.391300 ms)
+=======
+				BeforeProcessingInitializeOnLoad (57ms)
+				ProcessInitializeOnLoadAttributes (273ms)
+				ProcessInitializeOnLoadMethodAttributes (36ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 4.71 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.08 ms.
+Unloading 4495 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5057.
+Memory consumption went from 182.1 MB to 180.6 MB.
+Total: 3.637800 ms (FindLiveObjects: 0.345800 ms CreateObjectMapping: 0.267300 ms MarkObjects: 2.708900 ms  DeleteObjects: 0.314800 ms)
+>>>>>>> branche_js
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -1832,6 +2581,7 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
+<<<<<<< HEAD
   Time since last request: 226.668074 seconds.
   path: Assets/Meshes/SKM_Crabs/animation/bdl_byx.FBX
   artifactKey: Guid(1fc4354ae7018ba48a43e5ff10c72ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -1994,13 +2744,141 @@ Start importing Assets/Scripts/EnemyBehaviour.cs using Guid(0e40eb529390fe242b49
 Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.005467 seconds.
+=======
+  Time since last request: 121.907653 seconds.
+  path: Assets/Prefab/Crabs Variant.prefab
+  artifactKey: Guid(531d851723bb92d41b3510ddc7dd8405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Crabs Variant.prefab using Guid(531d851723bb92d41b3510ddc7dd8405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a6312ce38c053674f5e714004b928ab') in 0.065882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.149614 seconds.
+  path: Assets/Prefab/Crabs Variant.prefab
+  artifactKey: Guid(531d851723bb92d41b3510ddc7dd8405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Crabs Variant.prefab using Guid(531d851723bb92d41b3510ddc7dd8405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d9f1b247f57812590da9e8bc29b9be5') in 0.034626 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.172674 seconds.
+  path: Assets/Prefab/Crabs Variant.prefab
+  artifactKey: Guid(531d851723bb92d41b3510ddc7dd8405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Crabs Variant.prefab using Guid(531d851723bb92d41b3510ddc7dd8405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '317fac0e132b463aaea82b286956090e') in 0.032362 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 6.846680 seconds.
+  path: Assets/Prefab/Crabs Variant.prefab
+  artifactKey: Guid(531d851723bb92d41b3510ddc7dd8405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Crabs Variant.prefab using Guid(531d851723bb92d41b3510ddc7dd8405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0df841b7ce6fb32a3183523a5672536') in 0.022686 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 23.916394 seconds.
+  path: Assets/Prefab/Crabs Variant.prefab
+  artifactKey: Guid(531d851723bb92d41b3510ddc7dd8405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Crabs Variant.prefab using Guid(531d851723bb92d41b3510ddc7dd8405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b238819cc63794ae150042db2c52cbd9') in 0.030172 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 158.865696 seconds.
+  path: Assets/_TerrainAutoUpgrade/layer_sandNormalMap3d3aba195e4d26ee.terrainlayer
+  artifactKey: Guid(bef87edb1bed7fc45b6e03ba7861119f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/_TerrainAutoUpgrade/layer_sandNormalMap3d3aba195e4d26ee.terrainlayer using Guid(bef87edb1bed7fc45b6e03ba7861119f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df6f9af60802f1002d0bc9c7a7d5fd86') in 0.027696 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.382388 seconds.
+  path: Assets/Viuletti/Chests/Textures/sand.png
+  artifactKey: Guid(652660c25aab4f64eb4ad6f138fe6df9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viuletti/Chests/Textures/sand.png using Guid(652660c25aab4f64eb4ad6f138fe6df9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c80081ad172509396816d62ee2c5914') in 0.038903 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.002420 seconds.
+  path: Assets/SKM_Crabs
+  artifactKey: Guid(9b337b1cdaa6efb419ac3aa4d3704760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/SKM_Crabs using Guid(9b337b1cdaa6efb419ac3aa4d3704760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e475700a57a4b7b4b4d8826a12b092ad') in 0.005439 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.763247 seconds.
+  path: Assets/ExampleAssets/Models
+  artifactKey: Guid(4a0dd92c4753243b18b4100cf4991b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Models using Guid(4a0dd92c4753243b18b4100cf4991b5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db20ab0114199690f5053c1bf1416a04') in 0.004540 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.062893 seconds.
+  path: Assets/ExampleAssets/Models/XRControllerLeft.fbx
+  artifactKey: Guid(e48d18018a0ba46c283d9fd9c227e578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExampleAssets/Models/XRControllerLeft.fbx using Guid(e48d18018a0ba46c283d9fd9c227e578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c46845e3bafd2b6dea512bba41b377c') in 0.106387 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.234779 seconds.
+  path: Assets/Samples
+  artifactKey: Guid(ff096a9e9dad46d48b8f968b5e95de19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Samples using Guid(ff096a9e9dad46d48b8f968b5e95de19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92f34c1c8700f389fe4a41889c79172c') in 0.005584 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.410815 seconds.
+  path: Assets/Viuletti/Scenes
+  artifactKey: Guid(9adb47889cb896842b6c06c6f4c9f619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viuletti/Scenes using Guid(9adb47889cb896842b6c06c6f4c9f619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8103ca75d8ebfe8911828b164d6dab6') in 0.004632 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.126560 seconds.
+  path: Assets/Viuletti/Scenes/New Terrain.asset
+  artifactKey: Guid(e2212fc5e451aed429323f218f6d6f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viuletti/Scenes/New Terrain.asset using Guid(e2212fc5e451aed429323f218f6d6f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '227a65dfb882fbd9761099ee102686ee') in 0.090387 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.826569 seconds.
+  path: Assets/Viuletti/Chests
+  artifactKey: Guid(97fd9e5b177668a49b201af52dbe3988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viuletti/Chests using Guid(97fd9e5b177668a49b201af52dbe3988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bd9c221b0c25a893838b6aa7e4ed181') in 0.005293 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.522198 seconds.
+  path: Assets/Viuletti/Chests/Models
+  artifactKey: Guid(a107a2f2837665f4991fd3695bbc7ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viuletti/Chests/Models using Guid(a107a2f2837665f4991fd3695bbc7ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd49ca010f513d75ec3f1091a80b3367') in 0.001478 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.067966 seconds.
+  path: Assets/Viuletti/Chests/Models/pirate chest big.fbx
+  artifactKey: Guid(d6c56bd77c05a4448b219b5661495d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viuletti/Chests/Models/pirate chest big.fbx using Guid(d6c56bd77c05a4448b219b5661495d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd35e1d33a10e677f018b52c1335a719f') in 0.018934 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Viuletti/Chests/Models/small container lid.fbx
+  artifactKey: Guid(df65ebcf58cf7354e9dec09742f19de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viuletti/Chests/Models/small container lid.fbx using Guid(df65ebcf58cf7354e9dec09742f19de1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd27dadd274bfbcab03e65dafab529d8f') in 0.030856 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Viuletti/Chests/Models/pirate chest.fbx
+  artifactKey: Guid(53466c4ab48288946aafb93b27c7d976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Viuletti/Chests/Models/pirate chest.fbx using Guid(53466c4ab48288946aafb93b27c7d976) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ec9255d1ed47975e833bad5a6f86909') in 0.025216 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 20.820031 seconds.
+  path: Assets/LowPolyAssets
+  artifactKey: Guid(22c8f283f2253954d87f6d48aedb7ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/LowPolyAssets using Guid(22c8f283f2253954d87f6d48aedb7ea0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a22d3b65f3d35ef7ad91125aee0b286') in 0.004663 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.666212 seconds.
+  path: Assets/Import
+  artifactKey: Guid(2789cb0483f2443409697f632533ef09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Import using Guid(2789cb0483f2443409697f632533ef09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef7906217503e1dc60013db7835b192e') in 0.005319 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006028 seconds.
+>>>>>>> branche_js
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 0.99 ms, found 11 plugins.
+=======
+Refreshing native plugins compatible for Editor in 0.78 ms, found 11 plugins.
+>>>>>>> branche_js
 Preloading 1 native plugins for Editor in 0.08 ms.
 System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
   at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:271 
@@ -2018,6 +2896,7 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Completed reload, in  1.067 seconds
 Domain Reload Profiling:
 	ReloadAssembly (1067ms)
@@ -2052,6 +2931,42 @@ Unloading 4495 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5146.
 Memory consumption went from 182.8 MB to 181.3 MB.
 Total: 3.123500 ms (FindLiveObjects: 0.329100 ms CreateObjectMapping: 0.187100 ms MarkObjects: 2.255200 ms  DeleteObjects: 0.351100 ms)
+=======
+- Completed reload, in  0.909 seconds
+Domain Reload Profiling:
+	ReloadAssembly (910ms)
+		BeginReloadAssembly (106ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (732ms)
+			LoadAssemblies (64ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (212ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (373ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (58ms)
+				ProcessInitializeOnLoadAttributes (262ms)
+				ProcessInitializeOnLoadMethodAttributes (31ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 3.62 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.06 ms.
+Unloading 4495 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 52 unused Assets / (2.0 MB). Loaded Objects now: 5102.
+Memory consumption went from 183.4 MB to 181.3 MB.
+Total: 3.226500 ms (FindLiveObjects: 0.327800 ms CreateObjectMapping: 0.130700 ms MarkObjects: 2.239000 ms  DeleteObjects: 0.528200 ms)
+>>>>>>> branche_js
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -2065,16 +2980,184 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
+<<<<<<< HEAD
 Received Prepare
 Registering precompiled user dll's ...
 Registered in 0.005805 seconds.
+=======
+Received Import Request.
+  Time since last request: 79.982093 seconds.
+  path: Assets/Texture
+  artifactKey: Guid(6a8dd2de2d1ab174d8e6fd87a634ca02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texture using Guid(6a8dd2de2d1ab174d8e6fd87a634ca02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72d2787bafce00ec40607a3da219c956') in 0.011839 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.519262 seconds.
+  path: Assets/XR
+  artifactKey: Guid(22baeac49dfd54025859cd02808b06f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/XR using Guid(22baeac49dfd54025859cd02808b06f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f85bc78dacde45cbcf00a96a0618d6b') in 0.004438 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.492697 seconds.
+  path: Assets/Meshes/SKM_Crabs/animation
+  artifactKey: Guid(5f32413a78c0bd2488aaf019d79f5307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/SKM_Crabs/animation using Guid(5f32413a78c0bd2488aaf019d79f5307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '080c4389bed878fc343f6ccf7af47cf6') in 0.005377 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.061059 seconds.
+  path: Assets/Meshes/SKM_Crabs/animation/bdl_byx.FBX
+  artifactKey: Guid(1fc4354ae7018ba48a43e5ff10c72ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/SKM_Crabs/animation/bdl_byx.FBX using Guid(1fc4354ae7018ba48a43e5ff10c72ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b15261bddaaf3aead5f05fc5addcaf0') in 0.079731 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Meshes/SKM_Crabs/animation/bdl_byx@walk.FBX
+  artifactKey: Guid(db376bfc8a11cbc40a232076f96b7ed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/SKM_Crabs/animation/bdl_byx@walk.FBX using Guid(db376bfc8a11cbc40a232076f96b7ed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b55ab97932424467c17b43e57342e28d') in 0.059776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Meshes/SKM_Crabs/animation/bdl_byx@appear.FBX
+  artifactKey: Guid(d868bb4e32f3ca84c8a3f71b5df93925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/SKM_Crabs/animation/bdl_byx@appear.FBX using Guid(d868bb4e32f3ca84c8a3f71b5df93925) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '321f892776e9f75722a6835563a73174') in 0.051607 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Meshes/SKM_Crabs/animation/bdl_byx@knockout_earthfree.FBX
+  artifactKey: Guid(3e9225eba8c23eb49bb380868cbb520e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/SKM_Crabs/animation/bdl_byx@knockout_earthfree.FBX using Guid(3e9225eba8c23eb49bb380868cbb520e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dec1ec2632add5d377b7acc242e05fa8') in 0.036117 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Meshes/SKM_Crabs/animation/bdl_byx@dead.FBX
+  artifactKey: Guid(70f71e074afd2b34ebb857b94ee6fd86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/SKM_Crabs/animation/bdl_byx@dead.FBX using Guid(70f71e074afd2b34ebb857b94ee6fd86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84b4e6bbb69fcaad0a6e8160220ae8d0') in 0.039543 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Meshes/SKM_Crabs/animation/bdl_byx@earthfree_getup.FBX
+  artifactKey: Guid(87f41313be70bad4496daf42a16b3ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/SKM_Crabs/animation/bdl_byx@earthfree_getup.FBX using Guid(87f41313be70bad4496daf42a16b3ce8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5cb4a51a2696f1531d8a4153733b1fe') in 0.022660 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Meshes/SKM_Crabs/animation/bdl_byx@deadend.FBX
+  artifactKey: Guid(ecddcab1cd91b2f41a9034043632fdc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/SKM_Crabs/animation/bdl_byx@deadend.FBX using Guid(ecddcab1cd91b2f41a9034043632fdc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3347f8c7f71314ec5340bb342547a0d7') in 0.024251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Meshes/SKM_Crabs/animation/bdl_byx@fightstand.FBX
+  artifactKey: Guid(a9dc5f13af2b6b04390a9a2003f82c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/SKM_Crabs/animation/bdl_byx@fightstand.FBX using Guid(a9dc5f13af2b6b04390a9a2003f82c27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fc35f4dc8ab514206ce71dc39e7dc28') in 0.026645 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Meshes/SKM_Crabs/animation/bdl_byx@wait2.FBX
+  artifactKey: Guid(76cb6d0ad591db24eb111efce4cbbfa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/SKM_Crabs/animation/bdl_byx@wait2.FBX using Guid(76cb6d0ad591db24eb111efce4cbbfa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7d1b4d69d4ff76039c89097551964b4') in 0.025152 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Meshes/SKM_Crabs/animation/bdl_byx@knockout_floor.FBX
+  artifactKey: Guid(6e5edbff94729dc4f91341b75923ddd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Meshes/SKM_Crabs/animation/bdl_byx@knockout_floor.FBX using Guid(6e5edbff94729dc4f91341b75923ddd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75e73df7b316b36c209e0fe306c4c452') in 0.025022 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006827 seconds.
+>>>>>>> branche_js
 Begin MonoManager ReloadAssembly
 Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
 Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
 Native extension for UWP target not found
 Native extension for WindowsStandalone target not found
 Native extension for Android target not found
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 0.91 ms, found 11 plugins.
+=======
+Refreshing native plugins compatible for Editor in 1.40 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.11 ms.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:271 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:256 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <e40e5a8f982c4b618a930d29f9bd091c>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <e40e5a8f982c4b618a930d29f9bd091c>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <e40e5a8f982c4b618a930d29f9bd091c>:0 
+  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x000a5] in <44a70d1b13cf47e29810e30f45ffae08>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.032 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1032ms)
+		BeginReloadAssembly (126ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (42ms)
+		EndReloadAssembly (817ms)
+			LoadAssemblies (74ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (237ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (426ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (17ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (2ms)
+				BeforeProcessingInitializeOnLoad (69ms)
+				ProcessInitializeOnLoadAttributes (294ms)
+				ProcessInitializeOnLoadMethodAttributes (38ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 5.00 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.12 ms.
+Unloading 4495 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5107.
+Memory consumption went from 183.0 MB to 181.5 MB.
+Total: 3.477700 ms (FindLiveObjects: 0.387800 ms CreateObjectMapping: 0.158300 ms MarkObjects: 2.630300 ms  DeleteObjects: 0.300300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1021.043034 seconds.
+  path: Assets/Prefab/Crabs Variant.prefab
+  artifactKey: Guid(531d851723bb92d41b3510ddc7dd8405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefab/Crabs Variant.prefab using Guid(531d851723bb92d41b3510ddc7dd8405) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8250f6e7cefe06f7d553f0d208017b4') in 0.083835 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.005517 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 11 plugins.
+>>>>>>> branche_js
 Preloading 1 native plugins for Editor in 0.10 ms.
 System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
   at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\jolar\OneDrive\Bureau\VRCrabInvasion\TP2_CrabInvasionVR\TP2_Crabs_Official\Library\PackageCache\com.unity.xr.oculus@3.0.2\Runtime\OculusLoader.cs:271 
@@ -2092,6 +3175,7 @@ UnityEngine.Debug:LogError (object)
 UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
 
 Mono: successfully reloaded assembly
+<<<<<<< HEAD
 - Completed reload, in  1.027 seconds
 Domain Reload Profiling:
 	ReloadAssembly (1028ms)
@@ -2115,17 +3199,51 @@ Domain Reload Profiling:
 				BeforeProcessingInitializeOnLoad (65ms)
 				ProcessInitializeOnLoadAttributes (280ms)
 				ProcessInitializeOnLoadMethodAttributes (39ms)
+=======
+- Completed reload, in  0.984 seconds
+Domain Reload Profiling:
+	ReloadAssembly (984ms)
+		BeginReloadAssembly (116ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (3ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (43ms)
+		EndReloadAssembly (795ms)
+			LoadAssemblies (64ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (233ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (410ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (16ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (67ms)
+				ProcessInitializeOnLoadAttributes (285ms)
+				ProcessInitializeOnLoadMethodAttributes (37ms)
+>>>>>>> branche_js
 				AfterProcessingInitializeOnLoad (4ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (5ms)
 Platform modules already initialized, skipping
+<<<<<<< HEAD
 Refreshing native plugins compatible for Editor in 4.53 ms, found 11 plugins.
 Preloading 1 native plugins for Editor in 0.07 ms.
 Unloading 4495 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5150.
 Memory consumption went from 182.8 MB to 181.3 MB.
 Total: 4.592000 ms (FindLiveObjects: 0.399100 ms CreateObjectMapping: 0.208700 ms MarkObjects: 3.427700 ms  DeleteObjects: 0.555200 ms)
+=======
+Refreshing native plugins compatible for Editor in 3.73 ms, found 11 plugins.
+Preloading 1 native plugins for Editor in 0.07 ms.
+Unloading 4495 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 50 unused Assets / (1.5 MB). Loaded Objects now: 5111.
+Memory consumption went from 183.0 MB to 181.5 MB.
+Total: 3.925500 ms (FindLiveObjects: 0.413600 ms CreateObjectMapping: 0.291300 ms MarkObjects: 2.916100 ms  DeleteObjects: 0.303800 ms)
+>>>>>>> branche_js
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -2138,9 +3256,12 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+<<<<<<< HEAD
 ========================================================================
 Received Import Request.
   Time since last request: 121.581307 seconds.
   path: Assets/Meshes/SKM_Crabs/animation/bdl_byx.FBX
   artifactKey: Guid(1fc4354ae7018ba48a43e5ff10c72ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Meshes/SKM_Crabs/animation/bdl_byx.FBX using Guid(1fc4354ae7018ba48a43e5ff10c72ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41126aeb22cb930762d4ffe123d516d8') in 0.092872 seconds 
+=======
+>>>>>>> branche_js
