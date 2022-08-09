@@ -89,7 +89,7 @@ Material:
     - _GlossMapScale: 1
     - _Glossiness: 1
     - _GlossyReflections: 1
-    - _IgnoreDepthBuffer: 0
+    - _IgnoreDepthBuffer: 1
     - _IgnoreUVs: 1
     - _IgnoreVertexColour: 0
     - _Metallic: 0
@@ -118,5 +118,5 @@ Material:
     - _DepthColour: {r: 0.22707579, g: 0.39568636, b: 0.5147058, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _FoamColour: {r: 1, g: 1, b: 1, a: 1}
-    - _Tint: {r: 0.22707576, g: 0.39568633, b: 0.5147058, a: 0.222}
+    - _Tint: {r: 0.15018691, g: 0.23584908, b: 0.23191963, a: 0.222}
   m_BuildTextureStacks: []
