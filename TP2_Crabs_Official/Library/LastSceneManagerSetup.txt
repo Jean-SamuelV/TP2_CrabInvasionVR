@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Ungava.unity
+- path: Assets/Scenes/Elendil.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
