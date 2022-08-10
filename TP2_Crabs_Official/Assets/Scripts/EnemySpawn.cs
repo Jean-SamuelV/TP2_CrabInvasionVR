@@ -10,6 +10,9 @@ public class EnemySpawn : MonoBehaviour
     public int xPos;
     public int zPos;
     public int enemyCount;
+    public int relativeX;
+    public int relativeZ;
+    public int relativeY;
 
     void Start()
     {
@@ -29,9 +32,9 @@ public class EnemySpawn : MonoBehaviour
         {
 
 
-            xPos = Random.Range(25, -35);
-            zPos = Random.Range(14, -40);
-            Instantiate(enemies, new Vector3(xPos, 2, zPos), Quaternion.Euler(0,0,0));
+            xPos = Random.Range((relativeX + 25), (relativeX -35));
+            zPos = Random.Range((relativeZ + 25), (relativeZ-40));
+            Instantiate(enemies, new Vector3(xPos, relativeY, zPos), Quaternion.Euler(0,0,0));
             yield return new WaitForSeconds(1.5f);
             enemyCount += 1;
 

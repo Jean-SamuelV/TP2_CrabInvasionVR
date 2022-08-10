@@ -10,6 +10,7 @@ public class EnemyBehaviour : MonoBehaviour
 
     public Transform Castle;
     private NavMeshAgent _agent;
+    public Animation _animation;
 
 
     //Au lancement du jeu, le navMesAgent est store dans la variable _agent et Castle est initie avec la position transform du gameObjet chateau
@@ -19,12 +20,17 @@ public class EnemyBehaviour : MonoBehaviour
         _agent = GetComponent<NavMeshAgent>();
 
         Castle = GameObject.Find("Chateau").transform;
+
+        _animation = GetComponent<Animation>();
     }
 
     // A chaque frame la destination de _agent est update avec la position de Castle
     private void Update()
     {
         _agent.destination = Castle.position;
+
+        //_animation.Play("walk");
+
 
         Debug.Log("Player Detected - Attack!");
 
@@ -34,7 +40,7 @@ public class EnemyBehaviour : MonoBehaviour
     {
         if (other.gameObject.name == "Chateau")
         {
-
+            _animation.Play("attack1");
         }
 
     }
