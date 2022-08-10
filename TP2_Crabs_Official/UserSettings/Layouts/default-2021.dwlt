@@ -53,10 +53,14 @@ MonoBehaviour:
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 97
 =======
   controlID: 16
 >>>>>>> main
+=======
+  controlID: 93
+>>>>>>> parent of a966438 (ile plz)
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -74,11 +78,19 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1529
     y: 0
+<<<<<<< HEAD
     width: 391
     height: 947
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
+=======
+    width: 450
+    height: 931
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
+  m_ActualView: {fileID: 13}
+>>>>>>> parent of a966438 (ile plz)
   m_Panes:
   - {fileID: 16}
   - {fileID: 13}
@@ -238,10 +250,14 @@ MonoBehaviour:
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 98
 =======
   controlID: 17
 >>>>>>> main
+=======
+  controlID: 94
+>>>>>>> parent of a966438 (ile plz)
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -267,10 +283,14 @@ MonoBehaviour:
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 99
 =======
   controlID: 18
 >>>>>>> main
+=======
+  controlID: 95
+>>>>>>> parent of a966438 (ile plz)
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -449,6 +469,7 @@ MonoBehaviour:
   m_FolderTreeState:
 <<<<<<< HEAD
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: 6c760000
     m_LastClickedID: 30316
     m_ExpandedIDs: 00000000ae680000b0680000c4680000386a00003e6a00007e7300008e7300007e76000082760000b6760000267700001c9400002e94000000ca9a3b
@@ -458,6 +479,11 @@ MonoBehaviour:
     m_LastClickedID: 27506
     m_ExpandedIDs: 00000000366b0000386b00003a6b00003c6b00003e6b000000ca9a3b
 >>>>>>> main
+=======
+    m_SelectedIDs: 0c6a0000
+    m_LastClickedID: 27148
+    m_ExpandedIDs: 00000000e6690000e8690000ea690000ec690000ee690000f0690000f2690000f4690000f6690000f8690000fa690000fc690000fe6900000c6a000000ca9a3b
+>>>>>>> parent of a966438 (ile plz)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -486,10 +512,14 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000ac680000ae680000b0680000b2680000b4680000
 =======
     m_ExpandedIDs: 00000000366b0000386b00003a6b00003c6b00003e6b0000
 >>>>>>> main
+=======
+    m_ExpandedIDs: 00000000e6690000e8690000ea690000ec690000ee690000f0690000f2690000f4690000f6690000f8690000fa690000fc690000fe690000
+>>>>>>> parent of a966438 (ile plz)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -626,8 +656,12 @@ MonoBehaviour:
 =======
       m_SelectedIDs: c46b0000
       m_LastClickedID: 0
+<<<<<<< HEAD
       m_ExpandedIDs: 3cf9ffff18fbffff
 >>>>>>> main
+=======
+      m_ExpandedIDs: 24faffff
+>>>>>>> parent of a966438 (ile plz)
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -878,6 +912,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -20.863892, y: 10.7050705, z: 15.301398}
     speed: 2
     m_Value: {x: -20.863892, y: 10.7050705, z: 15.301398}
@@ -886,6 +921,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0.92120576, y: 3.7734663, z: 0.68730253}
 >>>>>>> main
+=======
+    m_Target: {x: 4.2681346, y: 6.1964135, z: -6.0509377}
+    speed: 2
+    m_Value: {x: 4.2681346, y: 6.1964135, z: -6.0509377}
+>>>>>>> parent of a966438 (ile plz)
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -933,6 +973,7 @@ MonoBehaviour:
     m_gridOpacity: 0.5
   m_Rotation:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 0.08368136, y: 0.9015271, z: -0.202171, w: 0.37335053}
     speed: 2
     m_Value: {x: 0.08337729, y: 0.9020783, z: -0.20229453, w: 0.37199458}
@@ -949,6 +990,15 @@ MonoBehaviour:
 =======
     m_Value: 1.3257883
 >>>>>>> main
+=======
+    m_Target: {x: -0.07680908, y: -0.4419373, z: 0.038020127, w: -0.8929228}
+    speed: 2
+    m_Value: {x: -0.07675331, y: -0.44328398, z: 0.038135964, w: -0.89227456}
+  m_Size:
+    m_Target: 10
+    speed: 2
+    m_Value: 10
+>>>>>>> parent of a966438 (ile plz)
   m_Ortho:
     m_Target: 0
     speed: 2
